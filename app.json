@@ -9,27 +9,27 @@
         "NOWNER": {
             "description": "Nomer Owner",
             "required": true,
-            "value": "6281224863098"
+            "value": "6281331954019"
         },
         "NAMAOWNER": {
             "description": "Nama Owner",
             "required": true,
-            "value": "Dellas"
+            "value": "FnCode"
         },
         "LINK_GITHUB": {
             "description": "Link Github",
             "required": true,
-            "value": "https://github.com/itsmedell"
+            "value": "https://github.com/fianbro"
         },
         "LINK_IG": {
             "description": "Link Profile Instagram",
             "required": true,
-            "value": "https://www.instagram.com/lord_lightness"
+            "value": "https://telegra.ph/Info-06-16-4"
         },
         "LINK_GROUP": {
             "description": "Link tautan grup whatsapp",
             "required": true,
-            "value": "https://chat.whatsapp.com/Bx5aAxINL4hBLt6MxaK5xB"
+            "value": "https://chat.whatsapp.com/GeXfxW15XQr6c7AwaFsuy3"
         },
         "PACKNAME": {
             "description": "Packname sticker",
@@ -39,7 +39,7 @@
         "AUTHOR": {
             "description": "Author Bot (WM)",
             "required": true,
-            "value": "CloudBot"
+            "value": "Remaja Masjid Tolak Teroris (REMAS TT)"
         },
         "MODERATOR": {
             "description": "Moderator Bot",
@@ -54,7 +54,7 @@
         "DONASI": {
             "description": "Nomer Owner",
             "required": true,
-            "value": "https://saweria.co/itsmedell"
+            "value": "https://saweria.co/remasttEntertainment"
         }
 },
   "buildpacks": [

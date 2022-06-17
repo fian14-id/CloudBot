@@ -5,7 +5,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     if (!res.ok) throw await res.text()
     let json = await res.json()
     if (!json.url) throw 'Error!'
-    conn.sendButton(m.chat, 'Saru', author, json.url, [['waifu', `${usedPrefix}waifu`]], m)
+    conn.sendButton(m.chat, 'Astaghfirullah, Saru', author, json.url, [['waifu', `${usedPrefix}waifu`]], m)
 }
 handler.help = ['waifu']
 handler.tags = ['internet']

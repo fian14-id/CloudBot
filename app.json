@@ -39,7 +39,7 @@
         "AUTHOR": {
             "description": "Author Bot (WM)",
             "required": true,
-            "value": "Remaja Masjid Tolak Teroris (REMAS TT)"
+            "value": "Mau ganti nama"
         },
         "MODERATOR": {
             "description": "Moderator Bot",

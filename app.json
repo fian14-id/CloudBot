@@ -14,7 +14,7 @@
         "NAMAOWNER": {
             "description": "Nama Owner",
             "required": true,
-            "value": "FnCode"
+            "value": "Al"
         },
         "LINK_GITHUB": {
             "description": "Link Github",
